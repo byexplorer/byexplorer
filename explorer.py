@@ -20,6 +20,16 @@ if islem ==1:
              """)
     exit()
 
+
+elif islem == 3:
+    print("---HAKKIMIZDA---")
+    print("""
+        Merhaba, Hoşgeldiniz Umarım Toolumuzu Beğenmişsinizdir.
+        Henüz Yapım Halinde Olduğundan Eksiklikler Görebilirsiniz.
+        Sormak İstediğiniz Soruları İnstagram Üzerinden İletebilirsiniz.
+        İyi Günler Dilerim. @ozekk35 , @bytegn @crexplorer_ #ByTegn
+    """)
+    exit()
 elif islem == 2: 
         print("Hack Toollarına Hoşgeldiniz")
         print("""
@@ -212,14 +222,7 @@ elif arac == 5:
         """)
 
 
-elif islem == 3:
-    print("---HAKKIMIZDA---")
-    print("""
-        Merhaba, Hoşgeldiniz Umarım Toolumuzu Beğenmişsinizdir.
-        Henüz Yapım Halinde Olduğundan Eksiklikler Görebilirsiniz.
-        Sormak İstediğiniz Soruları İnstagram Üzerinden İletebilirsiniz.
-        İyi Günler Dilerim. @ozekk35 , @bytegn @crexplorer_ #ByTegn
-    """)
+
 
 else:   
     print("Geçersiz İşlem...")

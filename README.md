@@ -4,7 +4,6 @@
 <img src="https://media.tenor.com/Y0hTuSWnaZ0AAAAC/smoke-joker.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="byexplorer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byexplorer" alt="byexplorer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bytegn01" target="blank"><img src="https://img.shields.io/twitter/follow/ByT4GN?logo=twitter&style=for-the-badge" alt="bytegn01" /></a> </p>
 

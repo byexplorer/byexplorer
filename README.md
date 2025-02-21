@@ -1,7 +1,6 @@
 
  <h1 align="center">ByExplorer</h1>
 <h3 align="center">My GitHub profile</h3>
-<img src="https://media.tenor.com/Y0hTuSWnaZ0AAAAC/smoke-joker.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="byexplorer" /> </p>
 
 

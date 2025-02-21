@@ -1,7 +1,7 @@
 
  <h1 align="center">ByExplorer</h1>
 <h3 align="center">My GitHub profile</h3>
- <img src="https://44.media.tumblr.com/7c21e0a73e64d71ce91d51b17f6f8187/tumblr_pbmnwc7d6r1v4hpoio1_500.gif" alt="byexplorer" /> 
+ <img src="[https://44.media.tumblr.com/7c21e0a73e64d71ce91d51b17f6f8187/tumblr_pbmnwc7d6r1v4hpoio1_500.gif](https://64.media.tumblr.com/7c21e0a73e64d71ce91d51b17f6f8187/tumblr_pbmnwc7d6r1v4hpoio1_500.gifv)" alt="byexplorer" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="byexplorer" /> </p>
 
 
